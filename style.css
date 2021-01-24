@@ -144,6 +144,7 @@ html {
     display: none;
     width: 200px;
     height: 80px;
+    bottom: 80px;
 }
 
 .mental {
@@ -162,6 +163,7 @@ html {
     display: none;
     width: 200px;
     height: 80px;
+    bottom: 100px;
 }
 
 .initial {
@@ -180,6 +182,7 @@ html {
     border-radius: 4px;
     width: 200px;
     height: 80px;
+    bottom: 100px;
 }
 
 .toggle {
