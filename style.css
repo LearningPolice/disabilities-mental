@@ -142,7 +142,7 @@ html {
     background: white;
     border-radius: 4px;
     display: none;
-    width: auto;
+    width: 200px;
     height: auto;
     bottom: 80px;
 }
@@ -161,7 +161,7 @@ html {
     background: white;
     border-radius: 4px;
     display: none;
-    width: auto;
+    width: 200px;
     height: auto;
     bottom: 100px;
 }
@@ -180,7 +180,7 @@ html {
     padding: 15px;
     background: white;
     border-radius: 4px;
-    width: auto;
+    width: 200px;
     height: auto;
     bottom: 100px;
 }
